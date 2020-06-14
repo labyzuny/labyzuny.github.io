@@ -55,6 +55,44 @@ body {
 .display-7 > .mbr-iconfont {
   font-size: 1.6rem;
 }
+
+.countdown-title {
+  font-family: 'Roboto', handwriting;
+  color: #ffffff;
+  font-weight: 100;
+  font-size: 30px;
+  margin: 20px 0px 20px;
+}
+
+.countdown {
+  font-family:'Rubik', sans-serif ;
+  color: rgba(255, 255, 255, 0.79);
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+.countdown-number {
+  padding: 10px;
+  border-radius: 3px;
+  background: #ffe8e8;
+  display: inline-block;
+}
+
+.countdown-time {
+  padding: 15px;
+  border-radius: 3px;
+  background: #bb8ea5;
+  display: inline-block;
+}
+
+.countdown-text {
+  display: block;
+  padding-top: 5px;
+  font-size: 16px;
+  background: rgba(194, 156, 178, 0.46);
+}
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -1387,7 +1425,7 @@ body {
 .cid-qIifnNA7oY {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #fff1f1;
 }
 .cid-qIifnNA7oY .line {
   background-color: #232323;
