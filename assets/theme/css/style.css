@@ -59,6 +59,7 @@ table caption {
     margin: .5em 0 .75em;
 }
 
+
 table tr {
     background-color: #fff1f1;
     border: 1px solid #fff1f1;
@@ -268,7 +269,7 @@ section .mbr-background-video-preview {
     -webkit-align-content: center;
     -ms-flex-line-pack: center;
     align-content: center;
-    -webkit-align-items: start;
+    -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: start;
 }
