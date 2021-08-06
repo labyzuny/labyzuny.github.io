@@ -21,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Monotype Corsiva', handwriting;
+  font-family: 'Rubik', sans-serif;
   font-size: 6rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 9.6rem;
 }
 .display-2 {
-  font-family: 'Monotype Corsiva', handwriting;
+  font-family: 'Rubik', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -57,8 +57,8 @@ body {
 }
 
 .countdown-title {
-  font-family: 'Roboto', handwriting;
-  color: #ffffff;
+  font-family: 'Rubik', sans-serif;
+  color: rgba(255, 255, 255, 0.62);
   font-weight: 100;
   font-size: 25px;
   margin: 20px 0px 20px;
