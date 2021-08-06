@@ -146,6 +146,8 @@ h1, h2, h3, h4, h5, h6,
     line-height: 1;
     word-break: break-word;
     word-wrap: break-word;
+    -webkit-text-stroke: 0.7px #640a4a;
+
 }
 
 b, strong {
@@ -197,7 +199,7 @@ section .mbr-background-video-preview {
 
 /*! Base colors */
 .mbr-white {
-    color: rgba(108, 50, 78, 0.64);
+    color: rgba(231, 13, 117, 0.64);
 }
 
 .mbr-black {

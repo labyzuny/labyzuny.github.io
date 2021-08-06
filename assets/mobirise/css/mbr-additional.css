@@ -14,6 +14,7 @@ body {
 
 .mbr-section-subtitle {
     line-height: 1.3;
+    -webkit-text-stroke: 0.7px #640a4a;
 }
 
 .mbr-text {
@@ -68,10 +69,11 @@ body {
 
 .countdown-title {
     font-family: 'Rubik', sans-serif;
-    color: rgba(108, 50, 78, 0.64);
+    color: rgba(232, 9, 116, 0.64);
     font-weight: 100;
     font-size: 25px;
     margin: 20px 0px 20px;
+    -webkit-text-stroke: 0.7px #640a4a;
 }
 
 .countdown {
@@ -86,7 +88,7 @@ body {
 .countdown-number {
     padding: 10px;
     border-radius: 3px;
-    background: #ffe8e8;
+    background: rgba(173, 63, 163, 0.38);
     display: inline-block;
 }
 
