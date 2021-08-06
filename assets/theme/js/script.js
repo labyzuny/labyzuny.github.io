@@ -1063,6 +1063,6 @@ function initializeClock(id, endtime) {
     var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = "August 21 2021 18:00:00 GMT+0300"; //for Ukraine
+var deadline = "August 20 2021 19:00:00 GMT+0300"; //for Ukraine
 // var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000); // for endless timer
 initializeClock('countdown', deadline);
